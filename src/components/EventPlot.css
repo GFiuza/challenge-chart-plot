@@ -1,0 +1,34 @@
+.Plot {
+    width: 100%;
+    height: 100%;
+}
+
+.footerStyle {
+    background-color: #dddee1;
+    position:relative;
+    height: 50px;
+    left:0;
+    bottom:0;
+    right:0;
+    display: flex;
+    align-content: center;
+}
+
+.eventButtonStyle {
+    background-color: #017eff;
+    border: none;
+    color: white;
+    padding: 7px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.EventInputTextArea {
+    resize: vertical;
+    width: 100%;
+    height: 500px;
+}
